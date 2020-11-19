@@ -4,7 +4,7 @@
 ## Use with docker
 To run this notebook using the built docker image, run : 
 ```
-docker run -p 8888:8888 -d sysbiocurie/indtraj
+docker run -p 8888:8888 -d vnoel/indtraj
 ```
 
 Then open a browser at the following url : <a href="http://localhost:8888/tree/IndividualTrajectoryAnalysis">http://localhost:8888/tree/IndividualTrajectoryAnalysis/</a>
