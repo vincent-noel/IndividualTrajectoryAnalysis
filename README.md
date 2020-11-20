@@ -1,5 +1,5 @@
 ## Use with binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincent-noel/IndividualTrajectoryAnalysis/main?filepath=ObservedSTG.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vincent-noel/IndividualTrajectoryAnalysis/main?filepath=https://mybinder.org/v2/gh/vincent-noel/IndividualTrajectoryAnalysis/main?filepath=IndividualTrajectoryAnalysis/ObservedSTG.ipynb)
 
 ## Use with docker
 To run this notebook using the built docker image, run : 
